@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "course_name": "Web Development Bootcamp",
+    "description": "Learn HTML, CSS, and JavaScript from scratch with hands-on projects.",
+    "duration": "6 months",
+    "platform": "Udemy",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159"
+  },
+  {
+    "id": 2,
+    "course_name": "JavaScript Mastery",
+    "description": "Master modern JavaScript including ES6+ features and real projects.",
+    "duration": "4 months",
+    "platform": "Coursera",
+    "price": "$180",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "course_name": "Python for Everybody",
+    "description": "Learn Python basics, data handling, files, loops, and more.",
+    "duration": "3 months",
+    "platform": "edX",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 4,
+    "course_name": "Data Structures & Algorithms",
+    "description": "Core DSA topics with explanations, visualizations, and coding problems.",
+    "duration": "5 months",
+    "platform": "Udacity",
+    "price": "$200",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 5,
+    "course_name": "Machine Learning Fundamentals",
+    "description": "Start your ML journey with regression, clustering, and model training.",
+    "duration": "6 months",
+    "platform": "Coursera",
+    "price": "$220",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 6,
+    "course_name": "React JS Complete Guide",
+    "description": "Learn React components, hooks, routing, and state management.",
+    "duration": "3 months",
+    "platform": "Udemy",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085"
+  },
+  {
+    "id": 7,
+    "course_name": "Android Development with Kotlin",
+    "description": "Build modern Android apps with Kotlin and Jetpack libraries.",
+    "duration": "6 months",
+    "platform": "Coursera",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
+  },
+  {
+    "id": 8,
+    "course_name": "iOS Development with Swift",
+    "description": "Make beautiful iOS applications using Swift and Xcode.",
+    "duration": "5 months",
+    "platform": "Udemy",
+    "price": "$175",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "id": 9,
+    "course_name": "Cybersecurity Essentials",
+    "description": "Learn ethical hacking, network defense, and threat analysis.",
+    "duration": "4 months",
+    "platform": "Udacity",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1556012018-50c5c0da73bf"
+  },
+  {
+    "id": 10,
+    "course_name": "Full Stack MERN Development",
+    "description": "Master MongoDB, Express, React, and Node.js full stack.",
+    "duration": "7 months",
+    "platform": "Udemy",
+    "price": "$190",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de1cd0d"
+  },
+  {
+    "id": 11,
+    "course_name": "Artificial Intelligence Basics",
+    "description": "Understand what AI is, its applications, and core algorithms.",
+    "duration": "4 months",
+    "platform": "edX",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1581091870697-2e27c9c9f03b"
+  },
+  {
+    "id": 12,
+    "course_name": "Database Management with SQL",
+    "description": "Learn SQL queries, joins, indexing, and database design.",
+    "duration": "2 months",
+    "platform": "Coursera",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  },
+  {
+    "id": 13,
+    "course_name": "Cloud Computing with AWS",
+    "description": "Build scalable cloud apps with AWS services.",
+    "duration": "4 months",
+    "platform": "Udacity",
+    "price": "$230",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 14,
+    "course_name": "DevOps & CI/CD",
+    "description": "Learn Docker, Kubernetes, Jenkins, pipelines, and automation.",
+    "duration": "6 months",
+    "platform": "Udemy",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+  },
+  {
+    "id": 15,
+    "course_name": "C Programming Basics",
+    "description": "Learn basic C syntax, loops, arrays, pointers, and memory.",
+    "duration": "3 months",
+    "platform": "Coursera",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 16,
+    "course_name": "Frontend Development with Vue.js",
+    "description": "Learn Vue.js framework fundamentals, components, routing and state management.",
+    "duration": "4 months",
+    "platform": "edX",
+    "price": "$165",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
+  },
+  {
+    "id": 17,
+    "course_name": "Backend API Development with Express.js",
+    "description": "Build REST APIs using Node.js and Express, handle routing, middleware and databases.",
+    "duration": "3 months",
+    "platform": "MOOC.org",
+    "price": "$170",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1e"
+  },
+  {
+    "id": 18,
+    "course_name": "Data Visualization with D3.js",
+    "description": "Create interactive charts and visualizations in the browser using D3.js library.",
+    "duration": "2 months",
+    "platform": "Coursera",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 19,
+    "course_name": "Introduction to TypeScript",
+    "description": "Learn TypeScript syntax, types, interfaces, and using TS with modern JS frameworks.",
+    "duration": "2 months",
+    "platform": "edX",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+  },
+  {
+    "id": 20,
+    "course_name": "GraphQL API Development",
+    "description": "Build GraphQL APIs and learn querying, mutations, and schema design.",
+    "duration": "3 months",
+    "platform": "Udemy",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159"
+  },
+  {
+    "id": 21,
+    "course_name": "Introduction to Rust Programming",
+    "description": "Learn Rust language fundamentals, memory safety, ownership, and systems programming.",
+    "duration": "4 months",
+    "platform": "MOOC.org",
+    "price": "$170",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 22,
+    "course_name": "Go (Golang) Programming from Zero to Hero",
+    "description": "Learn Go language basics, concurrency model, goroutines, and building backend services.",
+    "duration": "3 months",
+    "platform": "edX",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085"
+  },
+  {
+    "id": 23,
+    "course_name": "Kubernetes & Cloud Orchestration",
+    "description": "Understand Kubernetes fundamentals, container orchestration, pods, services and deployments.",
+    "duration": "5 months",
+    "platform": "Coursera",
+    "price": "$180",
+    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3"
+  },
+  {
+    "id": 24,
+    "course_name": "Big Data Analytics with Hadoop",
+    "description": "Learn Hadoop ecosystem, HDFS, MapReduce, and big data processing concepts.",
+    "duration": "6 months",
+    "platform": "Udacity",
+    "price": "$200",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 25,
+    "course_name": "Introduction to Blockchain Technology",
+    "description": "Learn fundamentals of blockchain, distributed ledgers, smart contracts, and decentralization.",
+    "duration": "4 months",
+    "platform": "MOOC.org",
+    "price": "$170",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "id": 26,
+    "course_name": "DevSecOps: Secure DevOps Practices",
+    "description": "Learn integrating security practices into DevOps pipeline, CI/CD, and secure deployments.",
+    "duration": "4 months",
+    "platform": "edX",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+  },
+  {
+    "id": 27,
+    "course_name": "UX/UI Design for Developers",
+    "description": "Learn user experience and interface design principles, prototyping and user testing.",
+    "duration": "3 months",
+    "platform": "Coursera",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  },
+  {
+    "id": 28,
+    "course_name": "Responsive Web Design with Bootstrap & Tailwind",
+    "description": "Master responsive layouts, utility-first styling and CSS frameworks like Bootstrap & Tailwind.",
+    "duration": "2 months",
+    "platform": "Udemy",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de1cd0d"
+  },
+  {
+    "id": 29,
+    "course_name": "REST API Design & Implementation",
+    "description": "Learn how to design robust REST APIs, including routing, authentication, error handling.",
+    "duration": "3 months",
+    "platform": "MOOC.org",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 30,
+    "course_name": "Software Testing & Quality Assurance",
+    "description": "Understand software testing methodologies, unit testing, integration testing, and QA workflows.",
+    "duration": "3 months",
+    "platform": "edX",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+  },
+  {
+    "id": 31,
+    "course_name": "Mobile Backend with Firebase & Firestore",
+    "description": "Build backend services for mobile apps using Firebase, authentication and real‑time database.",
+    "duration": "3 months",
+    "platform": "Coursera",
+    "price": "$150",
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085"
+  },
+  {
+    "id": 32,
+    "course_name": "Progressive Web Apps (PWA) Development",
+    "description": "Learn PWA fundamentals: service workers, caching, offline support, and modern web apps.",
+    "duration": "2 months",
+    "platform": "Udemy",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 33,
+    "course_name": "Serverless Architecture with AWS Lambda",
+    "description": "Build serverless applications using AWS Lambda, API Gateway, and cloud services.",
+    "duration": "4 months",
+    "platform": "MOOC.org",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3"
+  },
+  {
+    "id": 34,
+    "course_name": "Graph Theory & Advanced Algorithms",
+    "description": "Study advanced algorithms including graph algorithms, dynamic programming and complexity theory.",
+    "duration": "5 months",
+    "platform": "edX",
+    "price": "$170",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  },
+  {
+    "id": 35,
+    "course_name": "Data Science with R Programming",
+    "description": "Learn R language, data visualization, statistics, and data science workflows.",
+    "duration": "3 months",
+    "platform": "Coursera",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+  },
+  {
+    "id": 36,
+    "course_name": "Deep Learning & Neural Networks",
+    "description": "Understand neural networks, deep learning concepts, and build ML models.",
+    "duration": "6 months",
+    "platform": "Udacity",
+    "price": "$200",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "id": 37,
+    "course_name": "Natural Language Processing with Python",
+    "description": "Learn text processing, NLP libraries, sentiment analysis, and language models.",
+    "duration": "4 months",
+    "platform": "edX",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+  },
+  {
+    "id": 38,
+    "course_name": "Blockchain & Smart Contract Development",
+    "description": "Build decentralized applications and smart contracts on blockchain platforms.",
+    "duration": "5 months",
+    "platform": "MOOC.org",
+    "price": "$180",
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085"
+  },
+  {
+    "id": 39,
+    "course_name": "Internet of Things (IoT) Basics",
+    "description": "Learn IoT fundamentals, sensors, microcontrollers, and building connected devices.",
+    "duration": "4 months",
+    "platform": "Coursera",
+    "price": "$150",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 40,
+    "course_name": "AR/VR Development Fundamentals",
+    "description": "Get started with augmented and virtual reality app development concepts.",
+    "duration": "5 months",
+    "platform": "Udemy",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 41,
+    "course_name": "Game Development with Phaser.js",
+    "description": "Build 2D browser games using JavaScript and Phaser.js framework.",
+    "duration": "3 months",
+    "platform": "edX",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 42,
+    "course_name": "Real-Time Applications with WebSockets",
+    "description": "Learn socket programming, real‑time data, chat apps, and live updates.",
+    "duration": "2 months",
+    "platform": "MOOC.org",
+    "price": "$150",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+  },
+  {
+    "id": 43,
+    "course_name": "Microservices Architecture & Design",
+    "description": "Understand microservices, service decomposition, communication, and deployment.",
+    "duration": "4 months",
+    "platform": "Coursera",
+    "price": "$155",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  },
+  {
+    "id": 44,
+    "course_name": "Performance Optimization for Web Apps",
+    "description": "Learn optimizing front‑end and back‑end performance, caching, and best practices.",
+    "duration": "3 months",
+    "platform": "Udacity",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3"
+  },
+  {
+    "id": 45,
+    "course_name": "Continuous Integration and Delivery (CI/CD)",
+    "description": "Learn automation of builds, tests, and deployments using modern CI/CD tools.",
+    "duration": "2 months",
+    "platform": "edX",
+    "price": "$150",
+    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085"
+  },
+  {
+    "id": 46,
+    "course_name": "Server Administration with Linux & Bash",
+    "description": "Learn Linux server management, shell scripting, permissions, and deployments.",
+    "duration": "3 months",
+    "platform": "MOOC.org",
+    "price": "Free",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 47,
+    "course_name": "Data Engineering with Apache Spark",
+    "description": "Learn big‑data processing, Spark fundamentals, data pipelines and ETL tasks.",
+    "duration": "5 months",
+    "platform": "Coursera",
+    "price": "$180",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "id": 48,
+    "course_name": "Introduction to Quantum Computing",
+    "description": "Learn quantum computing concepts, qubits, quantum algorithms and theory.",
+    "duration": "4 months",
+    "platform": "Udemy",
+    "price": "$190",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 49,
+    "course_name": "Ethical Hacking & Network Security",
+    "description": "Learn penetration testing, network vulnerabilities and security best practices.",
+    "duration": "4 months",
+    "platform": "edX",
+    "price": "$160",
+    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+  },
+  {
+    "id": 50,
+    "course_name": "Project Management for Software Teams",
+    "description": "Learn Agile, Scrum, project planning, management and workflow practices.",
+    "duration": "2 months",
+    "platform": "MOOC.org",
+    "price": "$150",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+  }
+]
