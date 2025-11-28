@@ -87,7 +87,7 @@
     "duration": "7 months",
     "platform": "Udemy",
     "price": "$190",
-    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de1cd0d"
+    "image": "https://cdn.pixabay.com/photo/2017/04/23/19/30/earth-2254769_1280.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1581091870697-2e27c9c9f03b"
+    "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
   },
   {
     "id": 12,
@@ -123,7 +123,7 @@
     "duration": "6 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg"
   },
   {
     "id": 15,
@@ -150,7 +150,7 @@
     "duration": "3 months",
     "platform": "MOOC.org",
     "price": "$170",
-    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1e"
+    "image": "https://media.istockphoto.com/id/1385970223/photo/great-idea-of-a-marketing-strategy-plan-at-a-creative-office.webp?b=1&s=612x612&w=0&k=20&c=73P7SBFhMZCUll__OJ_JBZHhcUg0O0Ur4_RGKNyQTPE="
   },
   {
     "id": 18,
@@ -168,7 +168,7 @@
     "duration": "2 months",
     "platform": "edX",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/21/01/analysis-1841158_1280.jpg"
   },
   {
     "id": 20,
@@ -231,7 +231,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+    "image": "https://cdn.pixabay.com/photo/2018/09/20/17/37/client-3691439_1280.jpg"
   },
   {
     "id": 27,
@@ -249,7 +249,7 @@
     "duration": "2 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de1cd0d"
+    "image": "https://cdn.pixabay.com/photo/2016/03/09/13/58/online-marketing-1246457_1280.jpg"
   },
   {
     "id": 29,
@@ -267,7 +267,7 @@
     "duration": "3 months",
     "platform": "edX",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/22/53/analytics-1841554_1280.jpg"
   },
   {
     "id": 31,
@@ -312,7 +312,7 @@
     "duration": "3 months",
     "platform": "Coursera",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1587202372775-98927c792f0e"
+    "image": "https://cdn.pixabay.com/photo/2017/12/09/09/08/seo-3007488_1280.jpg"
   },
   {
     "id": 36,
@@ -330,7 +330,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+    "image": "https://cdn.pixabay.com/photo/2022/06/13/00/12/seo-7259068_1280.jpg"
   },
   {
     "id": 38,
@@ -375,7 +375,7 @@
     "duration": "2 months",
     "platform": "MOOC.org",
     "price": "$150",
-    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+    "image": "https://cdn.pixabay.com/photo/2020/04/13/14/04/google-5038526_1280.jpg"
   },
   {
     "id": 43,
@@ -438,7 +438,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1581276879432-15a19d654956"
+    "image": "https://cdn.pixabay.com/photo/2020/04/14/18/25/no-access-5043758_1280.jpg"
   },
   {
     "id": 50,
