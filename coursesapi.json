@@ -6,7 +6,7 @@
     "duration": "6 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg?w=400&q=60"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "duration": "4 months",
     "platform": "Coursera",
     "price": "$180",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png?w=400&q=60"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "duration": "3 months",
     "platform": "edX",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg?w=400&q=60"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "duration": "5 months",
     "platform": "Udacity",
     "price": "$200",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2025/05/19/21/34/twister-9610294_1280.png?w=400&q=60"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "duration": "6 months",
     "platform": "Coursera",
     "price": "$220",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/07/10/07/15/ai-generated-8885061_1280.jpg?w=400&q=60"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "duration": "3 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/04/20/21/10/code-3337044_1280.jpg?w=400&q=60"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "duration": "6 months",
     "platform": "Coursera",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2015/10/18/18/07/android-994910_1280.jpg?w=400&q=60"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "duration": "5 months",
     "platform": "Udemy",
     "price": "$175",
-    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2015/02/27/00/19/ajfoun-651350_1280.jpg?w=400&q=60"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "duration": "4 months",
     "platform": "Udacity",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1556012018-50c5c0da73bf?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2020/08/20/05/23/neon-5502633_1280.jpg?w=400&q=60"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "duration": "7 months",
     "platform": "Udemy",
     "price": "$190",
-    "image": "https://cdn.pixabay.com/photo/2017/04/23/19/30/earth-2254769_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png?w=400&q=60"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "Free",
-    "image": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2023/02/05/01/09/artificial-intelligence-7768524_1280.jpg?w=400&q=50"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "duration": "2 months",
     "platform": "Coursera",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/12/09/18/30/database-schema-1895779_1280.png?w=400&q=60"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "duration": "4 months",
     "platform": "Udacity",
     "price": "$230",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2017/01/22/22/11/cloud-computing-2001090_1280.jpg?w=400&q=60"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "duration": "6 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2018/02/15/18/29/devops-3155973_1280.jpg?w=400&q=60"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "duration": "3 months",
     "platform": "Coursera",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2019/07/12/18/48/code-4333398_1280.jpg?w=400&q=60"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$165",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/05/16/00/09/design-1394739_1280.jpg?w=400&q=60"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "duration": "3 months",
     "platform": "MOOC.org",
     "price": "$170",
-    "image": "https://media.istockphoto.com/id/1385970223/photo/great-idea-of-a-marketing-strategy-plan-at-a-creative-office.webp?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_1280.jpg?w=400&q=60"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "duration": "2 months",
     "platform": "Coursera",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png?w=400&q=60"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "duration": "2 months",
     "platform": "edX",
     "price": "Free",
-    "image": "https://cdn.pixabay.com/photo/2016/11/19/21/01/analysis-1841158_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/11/24/20/48/programming-1857236_1280.jpg?w=400&q=60"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "duration": "3 months",
     "platform": "Udemy",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/02/27/17/40/graph-3186081_1280.png?w=400&q=60"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "duration": "4 months",
     "platform": "MOOC.org",
     "price": "$170",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/01/05/18/47/technology-8490011_1280.png?w=400&q=60"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "duration": "3 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_1280.jpg?w=400&q=60"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "duration": "5 months",
     "platform": "Coursera",
     "price": "$180",
-    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2020/02/07/21/05/cloud-4828390_1280.jpg?w=400&q=60"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "duration": "6 months",
     "platform": "Udacity",
     "price": "$200",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/04/21/12/05/big-data-3338320_1280.png?w=400&q=60"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "duration": "4 months",
     "platform": "MOOC.org",
     "price": "$170",
-    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/01/18/07/31/bitcoin-3089728_1280.jpg?w=400&q=60"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://cdn.pixabay.com/photo/2018/09/20/17/37/client-3691439_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2020/02/15/16/50/security-4851428_1280.jpg?w=400&q=60"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "duration": "3 months",
     "platform": "Coursera",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/09/14/08/26/web-1668927_1280.jpg?w=400&q=60"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "duration": "2 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://cdn.pixabay.com/photo/2016/03/09/13/58/online-marketing-1246457_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2018/04/03/23/29/wordpress-3288417_1280.png?w=400&q=60"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "duration": "3 months",
     "platform": "MOOC.org",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2023/01/03/08/12/bitcoin-7693848_1280.png?w=400&q=60"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "duration": "3 months",
     "platform": "edX",
     "price": "$160",
-    "image": "https://cdn.pixabay.com/photo/2016/11/19/22/53/analytics-1841554_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2018/09/08/22/37/software-3663509_1280.jpg?w=400&q=60"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "duration": "3 months",
     "platform": "Coursera",
     "price": "$150",
-    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2019/09/09/08/23/internet-4463031_1280.jpg?w=400&q=60"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "duration": "2 months",
     "platform": "Udemy",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_1280.jpg?w=400&q=60"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "duration": "4 months",
     "platform": "MOOC.org",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/10/05/07/54/binary-3725324_1280.jpg?w=400&q=60"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "duration": "5 months",
     "platform": "edX",
     "price": "$170",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2021/03/11/12/58/laptop-6087062_1280.png?w=400&q=60"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "duration": "3 months",
     "platform": "Coursera",
     "price": "Free",
-    "image": "https://cdn.pixabay.com/photo/2017/12/09/09/08/seo-3007488_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_1280.jpg?w=400&q=60"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "duration": "6 months",
     "platform": "Udacity",
     "price": "$200",
-    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/08/20/13/21/artificial-intelligence-8983285_1280.jpg?w=400&q=60"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://cdn.pixabay.com/photo/2022/06/13/00/12/seo-7259068_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2014/11/21/08/31/board-540253_1280.jpg?w=400&q=60"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "duration": "5 months",
     "platform": "MOOC.org",
     "price": "$180",
-    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2017/03/02/14/30/hand-2111445_1280.jpg?w=400&q=60"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "duration": "4 months",
     "platform": "Coursera",
     "price": "$150",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2023/06/06/16/10/computer-8045029_1280.jpg?w=400&q=60"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "duration": "5 months",
     "platform": "Udemy",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2017/07/27/10/50/wordpress-development-2544896_1280.png?w=400&q=60"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "duration": "3 months",
     "platform": "edX",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/01/09/13/52/ai-generated-8497655_1280.png?w=400&q=60"
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@
     "duration": "2 months",
     "platform": "MOOC.org",
     "price": "$150",
-    "image": "https://cdn.pixabay.com/photo/2020/04/13/14/04/google-5038526_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2016/09/01/04/34/android-1635206_1280.png?w=400&q=60"
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@
     "duration": "4 months",
     "platform": "Coursera",
     "price": "$155",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/01/08/13/00/ai-generated-8495528_1280.png?w=400&q=60"
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@
     "duration": "3 months",
     "platform": "Udacity",
     "price": "$160",
-    "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2022/06/13/07/23/clock-7259417_1280.jpg?w=400&q=60"
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "duration": "2 months",
     "platform": "edX",
     "price": "$150",
-    "image": "https://images.unsplash.com/photo-1555066931-bf19f8fd1085?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2022/01/21/09/01/team-6954229_1280.jpg?w=400&q=60"
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@
     "duration": "3 months",
     "platform": "MOOC.org",
     "price": "Free",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2023/08/24/17/41/ai-generated-8211245_1280.jpg?w=400&q=60"
   },
   {
     "id": 47,
@@ -420,7 +420,7 @@
     "duration": "5 months",
     "platform": "Coursera",
     "price": "$180",
-    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2018/05/28/09/32/technology-3435575_1280.jpg?w=400&q=60"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "duration": "4 months",
     "platform": "Udemy",
     "price": "$190",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2024/12/31/09/17/digital-9301923_1280.jpg?w=400&q=60"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "duration": "4 months",
     "platform": "edX",
     "price": "$160",
-    "image": "https://cdn.pixabay.com/photo/2020/04/14/18/25/no-access-5043758_400.jpg"
+    "image": "https://cdn.pixabay.com/photo/2022/07/14/06/59/cybercrime-7320585_1280.jpg?w=400&q=60"
   },
   {
     "id": 50,
@@ -447,6 +447,6 @@
     "duration": "2 months",
     "platform": "MOOC.org",
     "price": "$150",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&q=60"
+    "image": "https://cdn.pixabay.com/photo/2025/01/03/19/17/project-management-9308524_1280.jpg?w=400&q=60"
   }
 ]
